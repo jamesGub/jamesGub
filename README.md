@@ -8,5 +8,5 @@
 
 - How to reach me: ... Discord (GUBBLE.#4747), E-mail (user1one@icloud.com), or Linkedin (James Gillanders)
 
-- Fun fact: ... Je peux parler français et anglais! Si voulez-vous parler l'une ou l'auttre langue, dites-moi!
+- Fun fact: ... Je peux parler français et anglais! Si voulez-vous parler l'une ou l'autre langue, dites-moi!
 
