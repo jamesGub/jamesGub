@@ -1,4 +1,4 @@
-### Hi! I'm James, but you can call me Gub.
+### Hi! I'm James, but some call me Gub.
 
 - 💻 I’m currently working on Virtual Reality R & D in Unity, additionally I am actively creating game projects both for university and myself!
 
