@@ -1,4 +1,4 @@
-### Hi! I'm James, but I go by many names online!
+### Thanks for stopping by :)
 
 - 💻 I’m currently working on Virtual Reality R & D in Unity, additionally I am actively creating game projects both for university and myself!
 
