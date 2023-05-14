@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on Virtual Reality R & D in Unity, additionally I am actively creating game projects both for university and myself!
 
-- 🎮 I’m currently learning how to develop for VR in Unity, UEFN, and advanced principles of game design.
+- 🎮 I’m currently learning how to develop for VR in Unity, C++ for Unreal, and advanced principles of game design.
 
 - 👥 I’m looking to collaborate on game jams, team-based game projects, or any stimulating opportunities! Jobs included :)
 
