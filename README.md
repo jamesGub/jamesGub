@@ -1,6 +1,6 @@
 ### Thanks for stopping by :)
 
-- 💻 I’m currently working on an open-world RPG in Unreal Engine!
+- 💻 I’m currently working on an open-world RPG in Unreal Engine 5 called "Rend"!
 
 - 🎮 I’m currently learning how to develop for UE5, C++, and the best ways to expand my skills.
 
